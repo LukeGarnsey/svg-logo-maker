@@ -1,13 +1,16 @@
 # SVG Logo Maker
 This is a repo to host a SVG Image maker, with the specific purpose of focusing on simple logo creation.
-
 This is a console based application that allows the user to create an SVG image by answering a series of prompts
 
-After the user answers all the questions a .svg file will be created in the same directory as the program.
-
 ## Install
+This application requires [Node](https://nodejs.org) to be installed.
 Clone the repo, then run 'npm i' inside the directory with the package.json file.
-After all packages are installed, run 'node index' to run the program.
+
+## usage
+run 'node index' to start the program.
+Follow along with the prompts and fill out all the answers.
+Hexidecimal color values are valid (#FFEEDD)
+After answering all the questions a .svg file will be created in the output directory.
 
 ### Examples
 
