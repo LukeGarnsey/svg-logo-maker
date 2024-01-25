@@ -3,7 +3,7 @@ This is a repo to host a SVG Image maker, with the specific purpose of focusing 
 
 This is a console based application that allows the user to create an SVG image by answering a series of prompts
 
-After the user answers all the questions a .svg file will be created in the same directory as the program.
+After the user answers all the questions a .svg file will be written and placed in the 'output' folder.
 
 ## Install
 Clone the repo, then run 'npm i' inside the directory with the package.json file.
