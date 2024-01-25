@@ -1,6 +1,6 @@
 <svg width="200" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <polygon points="100 0 200 250 0 250"
+    <rect x="0" y="0" width="200" height="200"
     stroke="black" fill="black" stroke-width="5"/>
-    <text x="100" y="110" font-size="60"
+    <text x="100" y="110.00000000000001" font-size="60"
      text-anchor="middle" fill="red">LMG</text>
     </svg>
