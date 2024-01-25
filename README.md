@@ -13,7 +13,7 @@ After all packages are installed, run 'node index' to run the program.
 
 ![alt text](./examples/triangle_LMG.svg)![alt text](./examples/square_bb.svg)![alt text](./examples/circle_rEx.svg)
 
-[Example Video](https://lukegarnsey.github.io/weather-dashboard/)
+[Video Walkthrough](https://drive.google.com/file/d/1bOME2m1dEGn4L4R5Wb1w-cUl3aSyB6Xr/view?usp=sharing)
 
 ## Tests
 This app uses Jest to run unit tests. 
