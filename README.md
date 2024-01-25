@@ -12,7 +12,7 @@ Follow along with the prompts and fill out all the answers.
 Hexidecimal color values are valid (#FFEEDD)
 After answering all the questions a .svg file will be created in the output directory.
 
-### Examples
+## Examples
 
 ![alt text](./examples/triangle_LMG.svg)![alt text](./examples/square_bb.svg)![alt text](./examples/circle_rEx.svg)
 
@@ -21,3 +21,8 @@ After answering all the questions a .svg file will be created in the output dire
 ## Tests
 This app uses Jest to run unit tests. 
 To run the tests use the command 'npm run test'.
+
+##Credits
+This app uses the following npm packages.
+[Inquirer](https://www.npmjs.com/package/inquirer)
+[Jest](https://www.npmjs.com/package/jest)
