@@ -22,7 +22,7 @@ After answering all the questions a .svg file will be created in the output dire
 This app uses Jest to run unit tests. 
 To run the tests use the command 'npm run test'.
 
-##Credits
-This app uses the following npm packages.
-[Inquirer](https://www.npmjs.com/package/inquirer)
-[Jest](https://www.npmjs.com/package/jest)
+## Credits
+This app uses the following npm packages.  
+[Inquirer](https://www.npmjs.com/package/inquirer)  
+[Jest](https://www.npmjs.com/package/jest)  
